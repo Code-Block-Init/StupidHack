@@ -1,0 +1,17 @@
+{
+  "name": "StupidHack",
+  "version": "v0.0.1",
+  "description": "StupidHack does spawning by means of Javascript threads and it cracks MD5 password hash.",
+  "license": "MIT License",
+  "repository": "dragonwolverines/StupidHack",
+  "author": {
+    "name": "Aswini S",
+    "github": "ashumeow",
+    "twitter": "@ashumeow",
+    "email": "ashumeow@live.com",
+    "url": "http://windowsgeekpro.in"
+  },
+  "files": [
+    "md5.js"
+  ]
+}
