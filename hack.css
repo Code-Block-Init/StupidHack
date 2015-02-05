@@ -1,0 +1,16 @@
+body {
+	font-family: monospace;
+}
+
+.log {
+	border: 1px solid gray;
+	width: 400px;
+	height: 80px;
+	overflow-y: scroll;
+	margin-bottom: 20px;
+}
+
+.status {
+	color: red;
+	font-weight: bold;
+}
