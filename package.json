@@ -12,6 +12,9 @@
     "url": "http://windowsgeekpro.in"
   },
   "files": [
-    "md5.js"
+    "md5.js",
+    "blahblah.js",
+    "lead.js",
+    "interface.js"
   ]
 }
