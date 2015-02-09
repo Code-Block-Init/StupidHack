@@ -1,7 +1,7 @@
 {
   "name": "StupidHack",
   "version": "v0.0.1",
-  "description": "StupidHack does spawning through Javascript threads and it cracks MD5 password hash.",
+  "description": "StupidHack does spawning through Javascript threads & it cracks MD5 password hash.",
   "license": "MIT License",
   "repository": "dragonwolverines/StupidHack",
   "author": {
