@@ -1,4 +1,4 @@
-#StupidHack
+#StupidHack (^_^)
 [![Build Status][travis-image]][travis-url]
 [travis-url]: https://travis-ci.org/dragonwolverines/StupidHack
 [travis-image]: https://travis-ci.org/dragonwolverines/StupidHack.svg
